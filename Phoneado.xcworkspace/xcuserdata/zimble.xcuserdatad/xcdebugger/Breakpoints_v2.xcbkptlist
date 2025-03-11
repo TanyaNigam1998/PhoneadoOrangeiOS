@@ -1,0 +1,3295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BA0C8E63-42F9-4C65-A87D-FC6D7F4D4DF9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "192B5313-FFB2-4D5E-B467-90062ADD3F22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/Authentication/Controllers/VerificationCodeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "updateUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "192B5313-FFB2-4D5E-B467-90062ADD3F22 - 77ad2de0bec40118"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.VerificationCodeVC.updateUser() -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/Authentication/Controllers/VerificationCodeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "192B5313-FFB2-4D5E-B467-90062ADD3F22 - 48610ae03b3e841f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.VerificationCodeVC.updateUser() -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/Authentication/Controllers/VerificationCodeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E83589B2-01FB-42BC-9BA5-87038A33E915"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/albumPhotosVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "startSync()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E83589B2-01FB-42BC-9BA5-87038A33E915 - e1bf7c723147fcb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in PhoneadoDev.albumPhotosVC.startSync() -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/albumPhotosVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "E83589B2-01FB-42BC-9BA5-87038A33E915 - f729a3b47f6e5219"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in Phoneado.albumPhotosVC.startSync() -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/albumPhotosVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7500647E-CDB2-4D99-B28B-80465865ADD1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "389"
+            endingLineNumber = "389"
+            landmarkName = "cancelCall(notification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7500647E-CDB2-4D99-B28B-80465865ADD1 - 7dff58e952d842c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.ViewController.cancelCall(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "3388">
+               </Location>
+               <Location
+                  uuid = "7500647E-CDB2-4D99-B28B-80465865ADD1 - 7dff58e952d842c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.ViewController.cancelCall(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "3436">
+               </Location>
+               <Location
+                  uuid = "7500647E-CDB2-4D99-B28B-80465865ADD1 - c20935ce2c6c52c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.ViewController.cancelCall(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "3268">
+               </Location>
+               <Location
+                  uuid = "7500647E-CDB2-4D99-B28B-80465865ADD1 - e55196e2674a5a8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.ViewController.cancelCall(notification: __C.NSNotification) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "3268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "831A4C11-57B8-466F-8A56-4674710998E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "701"
+            endingLineNumber = "701"
+            landmarkName = "playRingback()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "831A4C11-57B8-466F-8A56-4674710998E6 - 32bf0c05000e9f0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.VoiceCallVC.playRingback() -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "703"
+                  endingLineNumber = "703"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "831A4C11-57B8-466F-8A56-4674710998E6 - 624debc2533b186"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.VoiceCallVC.playRingback() -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "703"
+                  endingLineNumber = "703"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACF3CA64-F49F-41AC-A6CB-29935643A062"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "userNotificationCenter(_:willPresent:withCompletionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACF3CA64-F49F-41AC-A6CB-29935643A062 - df88965a985033e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "249"
+                  endingLineNumber = "249"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "ACF3CA64-F49F-41AC-A6CB-29935643A062 - df88965a98503387"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "248"
+                  endingLineNumber = "248"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C29E384-6CA2-4771-81B8-51B5634EFA5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
+            landmarkName = "userNotificationCenter(_:willPresent:withCompletionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C29E384-6CA2-4771-81B8-51B5634EFA5C - df88965a98502f2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "274"
+                  endingLineNumber = "274"
+                  offsetFromSymbolStart = "6320">
+               </Location>
+               <Location
+                  uuid = "0C29E384-6CA2-4771-81B8-51B5634EFA5C - 63abba9ffeb36c9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "274"
+                  endingLineNumber = "274"
+                  offsetFromSymbolStart = "6320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9C00772-E513-48F3-BE8F-F467008B90A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "799"
+            endingLineNumber = "799"
+            landmarkName = "provider(_:perform:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9C00772-E513-48F3-BE8F-F467008B90A3 - 7f4dde043c31e807"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.VoiceCallVC.provider(_: __C.CXProvider, perform: __C.CXEndCallAction) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "799"
+                  endingLineNumber = "799"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "B9C00772-E513-48F3-BE8F-F467008B90A3 - 7f0feea111d3664f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.VoiceCallVC.provider(_: __C.CXProvider, perform: __C.CXEndCallAction) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "799"
+                  endingLineNumber = "799"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36E3AC34-81EC-46D0-A280-A9A26A232337"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "804"
+            endingLineNumber = "804"
+            landmarkName = "provider(_:perform:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36E3AC34-81EC-46D0-A280-A9A26A232337 - 7f4dde043c31e9e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.VoiceCallVC.provider(_: __C.CXProvider, perform: __C.CXEndCallAction) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "804"
+                  endingLineNumber = "804"
+                  offsetFromSymbolStart = "1896">
+               </Location>
+               <Location
+                  uuid = "36E3AC34-81EC-46D0-A280-A9A26A232337 - 7f0feea111d367aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.VoiceCallVC.provider(_: __C.CXProvider, perform: __C.CXEndCallAction) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "804"
+                  endingLineNumber = "804"
+                  offsetFromSymbolStart = "1896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E4FBDC3-75E7-49A4-B97D-10C975D5A5AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
+            landmarkName = "endCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E4FBDC3-75E7-49A4-B97D-10C975D5A5AA - 312edfe9770ea1f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.VoiceCallVC.endCall() -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "5E4FBDC3-75E7-49A4-B97D-10C975D5A5AA - cf4822f4bcdb1f91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.VoiceCallVC.endCall() -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80907099-C873-4431-B8FA-EF03A9B9901F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "378"
+            endingLineNumber = "378"
+            landmarkName = "endCall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80907099-C873-4431-B8FA-EF03A9B9901F - 2c2f75f0947d457"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.VoiceCallVC.endCall() -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "378"
+                  endingLineNumber = "378"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "80907099-C873-4431-B8FA-EF03A9B9901F - a15cf77c4e72b62b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.VoiceCallVC.endCall() -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "378"
+                  endingLineNumber = "378"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ABA3AF8-83FE-42DD-9D59-33AC8F29A004"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "584"
+            endingLineNumber = "584"
+            landmarkName = "callDisconnected(call:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2ABA3AF8-83FE-42DD-9D59-33AC8F29A004 - 121c7f6eeb7d9a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "584"
+                  endingLineNumber = "584"
+                  offsetFromSymbolStart = "2948">
+               </Location>
+               <Location
+                  uuid = "2ABA3AF8-83FE-42DD-9D59-33AC8F29A004 - e0650659be7826b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "585"
+                  endingLineNumber = "585"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "2ABA3AF8-83FE-42DD-9D59-33AC8F29A004 - 8a24f848ca02a242"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "584"
+                  endingLineNumber = "584"
+                  offsetFromSymbolStart = "2880">
+               </Location>
+               <Location
+                  uuid = "2ABA3AF8-83FE-42DD-9D59-33AC8F29A004 - 8692251dbb6b8e61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "585"
+                  endingLineNumber = "585"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "2ABA3AF8-83FE-42DD-9D59-33AC8F29A004 - 36d6ea88dbf5aae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "584"
+                  endingLineNumber = "584"
+                  offsetFromSymbolStart = "2880">
+               </Location>
+               <Location
+                  uuid = "2ABA3AF8-83FE-42DD-9D59-33AC8F29A004 - 2accc583ab6fb319"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "585"
+                  endingLineNumber = "585"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACDBB223-921C-4671-918E-269483C54112"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "589"
+            endingLineNumber = "589"
+            landmarkName = "callDisconnected(call:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACDBB223-921C-4671-918E-269483C54112 - 121c7f6eeb7d9aed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "589"
+                  endingLineNumber = "589"
+                  offsetFromSymbolStart = "3260">
+               </Location>
+               <Location
+                  uuid = "ACDBB223-921C-4671-918E-269483C54112 - 45717a241eafb911"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "590"
+                  endingLineNumber = "590"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "ACDBB223-921C-4671-918E-269483C54112 - 8a24f848ca02a319"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "589"
+                  endingLineNumber = "589"
+                  offsetFromSymbolStart = "3192">
+               </Location>
+               <Location
+                  uuid = "ACDBB223-921C-4671-918E-269483C54112 - acfe709514cc74bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "590"
+                  endingLineNumber = "590"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "ACDBB223-921C-4671-918E-269483C54112 - 36d6ea88dbf5abbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "589"
+                  endingLineNumber = "589"
+                  offsetFromSymbolStart = "3192">
+               </Location>
+               <Location
+                  uuid = "ACDBB223-921C-4671-918E-269483C54112 - 61bbefc22e2789c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.VoiceCallVC.callDisconnected(call: __C.TVOCall) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "590"
+                  endingLineNumber = "590"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08FFF56C-019E-436A-8BD3-08C51CFDEFAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "976"
+            endingLineNumber = "976"
+            landmarkName = "performAnswerVoiceCall(uuid:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08FFF56C-019E-436A-8BD3-08C51CFDEFAE - 1b9a9b42148739f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.VoiceCallVC.performAnswerVoiceCall(uuid: Foundation.UUID, completionHandler: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "976"
+                  endingLineNumber = "976"
+                  offsetFromSymbolStart = "2956">
+               </Location>
+               <Location
+                  uuid = "08FFF56C-019E-436A-8BD3-08C51CFDEFAE - 2d5419ab564825d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.VoiceCallVC.performAnswerVoiceCall(uuid: Foundation.UUID, completionHandler: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "976"
+                  endingLineNumber = "976"
+                  offsetFromSymbolStart = "2956">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83E44296-D38F-485D-A350-3E026A5AAC32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "isMessageReceived()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83E44296-D38F-485D-A350-3E026A5AAC32 - 45e9e462fd52e2b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; () in PhoneadoDev.VoiceCallVC.isMessageReceived() -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "2368">
+               </Location>
+               <Location
+                  uuid = "83E44296-D38F-485D-A350-3E026A5AAC32 - cd64391bab40f404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; () in Phoneado.VoiceCallVC.isMessageReceived() -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/VoiceCallVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "2368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "635217B4-FE9B-4D70-ACAC-E3E40ABCB5A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/IndividualChatDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "callUploadMediaFileToServer(fileData:image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "635217B4-FE9B-4D70-ACAC-E3E40ABCB5A5 - c58befbc7daff644"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.IndividualChatDetailVC.sendMessage(image: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/IndividualChatDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "1400">
+               </Location>
+               <Location
+                  uuid = "635217B4-FE9B-4D70-ACAC-E3E40ABCB5A5 - c58befbc7daff644"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.IndividualChatDetailVC.sendMessage(image: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/IndividualChatDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "1480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E167AE2-24B0-48FA-B27A-72129E1ADA36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "handleLongPress(gesture:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E167AE2-24B0-48FA-B27A-72129E1ADA36 - 16d8a73f81293790"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.handleLongPress(gesture: Swift.Optional&lt;__C.UILongPressGestureRecognizer&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "2512">
+               </Location>
+               <Location
+                  uuid = "6E167AE2-24B0-48FA-B27A-72129E1ADA36 - 16d8a73f81293790"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.handleLongPress(gesture: Swift.Optional&lt;__C.UILongPressGestureRecognizer&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "2524">
+               </Location>
+               <Location
+                  uuid = "6E167AE2-24B0-48FA-B27A-72129E1ADA36 - 2ad9e0f5cc4eb49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.GalleryVC.handleLongPress(gesture: Swift.Optional&lt;__C.UILongPressGestureRecognizer&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "235"
+                  endingLineNumber = "235"
+                  offsetFromSymbolStart = "2392">
+               </Location>
+               <Location
+                  uuid = "6E167AE2-24B0-48FA-B27A-72129E1ADA36 - 5a37774030049eb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.handleLongPress(gesture: Swift.Optional&lt;__C.UILongPressGestureRecognizer&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "235"
+                  endingLineNumber = "235"
+                  offsetFromSymbolStart = "2392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D802ECF-DEA5-4FBF-B8D3-F12E3A36B649"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "handleLongPress(gesture:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D802ECF-DEA5-4FBF-B8D3-F12E3A36B649 - 16d8a73f81293435"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.handleLongPress(gesture: Swift.Optional&lt;__C.UILongPressGestureRecognizer&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "2236">
+               </Location>
+               <Location
+                  uuid = "8D802ECF-DEA5-4FBF-B8D3-F12E3A36B649 - 16d8a73f81293435"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.handleLongPress(gesture: Swift.Optional&lt;__C.UILongPressGestureRecognizer&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "2252">
+               </Location>
+               <Location
+                  uuid = "8D802ECF-DEA5-4FBF-B8D3-F12E3A36B649 - 2ad9e0f5cc4eaa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.GalleryVC.handleLongPress(gesture: Swift.Optional&lt;__C.UILongPressGestureRecognizer&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "2120">
+               </Location>
+               <Location
+                  uuid = "8D802ECF-DEA5-4FBF-B8D3-F12E3A36B649 - 5a37774030049f59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.handleLongPress(gesture: Swift.Optional&lt;__C.UILongPressGestureRecognizer&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "2120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "884206C9-6528-422B-812D-6811479F7E15"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "591"
+            endingLineNumber = "591"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "884206C9-6528-422B-812D-6811479F7E15 - 1d70e598403446b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "581"
+                  endingLineNumber = "581"
+                  offsetFromSymbolStart = "1744">
+               </Location>
+               <Location
+                  uuid = "884206C9-6528-422B-812D-6811479F7E15 - 1d70e5984034412b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "585"
+                  endingLineNumber = "585"
+                  offsetFromSymbolStart = "1760">
+               </Location>
+               <Location
+                  uuid = "884206C9-6528-422B-812D-6811479F7E15 - 6a813ad42a156233"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.GalleryVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "591"
+                  endingLineNumber = "591"
+                  offsetFromSymbolStart = "1696">
+               </Location>
+               <Location
+                  uuid = "884206C9-6528-422B-812D-6811479F7E15 - 519f35e7f1192857"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "591"
+                  endingLineNumber = "591"
+                  offsetFromSymbolStart = "1696">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A303CAEC-C7DB-40A5-A19C-29F13B7836C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "661"
+            endingLineNumber = "661"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A303CAEC-C7DB-40A5-A19C-29F13B7836C8 - 1d70e5984037b935"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "647"
+                  endingLineNumber = "647"
+                  offsetFromSymbolStart = "6404">
+               </Location>
+               <Location
+                  uuid = "A303CAEC-C7DB-40A5-A19C-29F13B7836C8 - 1d70e5984037b82d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/IOS_Applications/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "655"
+                  endingLineNumber = "655"
+                  offsetFromSymbolStart = "6584">
+               </Location>
+               <Location
+                  uuid = "A303CAEC-C7DB-40A5-A19C-29F13B7836C8 - 6a813ad42a15692d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.GalleryVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "661"
+                  endingLineNumber = "661"
+                  offsetFromSymbolStart = "6412">
+               </Location>
+               <Location
+                  uuid = "A303CAEC-C7DB-40A5-A19C-29F13B7836C8 - 519f35e7f1192349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.GalleryVC.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "661"
+                  endingLineNumber = "661"
+                  offsetFromSymbolStart = "6412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16BCAA02-98A6-41D3-9F87-2FD092D7C163"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/GalleryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "512"
+            endingLineNumber = "512"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F488240-91EE-4564-9C30-321AE204672D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "checkRegisteredMobileRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F488240-91EE-4564-9C30-321AE204672D - 8f8e79a8ee9f9542"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "3F488240-91EE-4564-9C30-321AE204672D - 145e435bf41ee1dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "3F488240-91EE-4564-9C30-321AE204672D - 8f8e79a8ee9f956d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "3F488240-91EE-4564-9C30-321AE204672D - 145e435bf41ee213"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "3F488240-91EE-4564-9C30-321AE204672D - 8f8e79a8ee9f96af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "3F488240-91EE-4564-9C30-321AE204672D - e6b6ad35b08a1a7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "3F488240-91EE-4564-9C30-321AE204672D - 3614db385873491"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "3F488240-91EE-4564-9C30-321AE204672D - 145e435bf41ee230"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "680">
+               </Location>
+               <Location
+                  uuid = "3F488240-91EE-4564-9C30-321AE204672D - 8f8e79a8ee9f96ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9E3B9BA-5716-43B7-BA57-C87EA3986A0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "checkRegisteredMobileRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9E3B9BA-5716-43B7-BA57-C87EA3986A0B - 8f8e79a8ee9f96af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "C9E3B9BA-5716-43B7-BA57-C87EA3986A0B - 8f8e79a8ee9f968c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "C9E3B9BA-5716-43B7-BA57-C87EA3986A0B - 8f8e79a8ee9f96ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "C9E3B9BA-5716-43B7-BA57-C87EA3986A0B - 3614db3858734b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "C9E3B9BA-5716-43B7-BA57-C87EA3986A0B - 8f8e79a8ee9f96e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63558F7D-B475-4AB1-80E9-99CBF378D951"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "checkRegisteredMobileRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "63558F7D-B475-4AB1-80E9-99CBF378D951 - 8f8e79a8ee9f9675"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "63558F7D-B475-4AB1-80E9-99CBF378D951 - 8f8e79a8ee9f97b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "896EF216-E24D-4115-9649-F65999CEE251"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "checkRegisteredMobileRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "896EF216-E24D-4115-9649-F65999CEE251 - 8f8e79a8ee9f977d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "1280">
+               </Location>
+               <Location
+                  uuid = "896EF216-E24D-4115-9649-F65999CEE251 - 8f8e79a8ee9f9733"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1916">
+               </Location>
+               <Location
+                  uuid = "896EF216-E24D-4115-9649-F65999CEE251 - 3614db38587356c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;Phoneado.NetworkError&gt;) -&gt; () in Phoneado.SelectMembersController.checkRegisteredMobileRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/Chat/SelectMembersController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "146"
+                  endingLineNumber = "146"
+                  offsetFromSymbolStart = "1916">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "549ECF46-0B93-4801-BAAC-2B99A27E22F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/CreateGroupController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "uploadProfilePicServiceReuqest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "635D74BD-E3B6-434A-A0B8-E6CAAB6D9CC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/CreateGroupController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "createGroupServiceRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0165BF1E-9AA1-405B-8466-38F9EEED9168"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/MessagesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "265"
+            endingLineNumber = "265"
+            landmarkName = "getChatRequest(requestParams:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B092F317-6B4F-416F-993A-0885147FA874"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/Helper/Requests/NetworkRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "makeRequestURLENcoded(method:endPoint:params:callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B092F317-6B4F-416F-993A-0885147FA874 - 89ceee4ab7fc4316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.NetworkRequest.makeRequestURLENcoded(method: Alamofire.HTTPMethod, endPoint: Swift.String, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, callback: (Swift.Optional&lt;PhoneadoDev.NetworkResponse&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/Helper/Requests/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "1684">
+               </Location>
+               <Location
+                  uuid = "B092F317-6B4F-416F-993A-0885147FA874 - d2c3993d6229ad1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in PhoneadoDev.NetworkRequest.makeRequestURLENcoded(method: Alamofire.HTTPMethod, endPoint: Swift.String, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, callback: (Swift.Optional&lt;PhoneadoDev.NetworkResponse&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/Helper/Requests/NetworkRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D0873D8-A870-4336-B28A-117967D4F87A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/MessagesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "262"
+            endingLineNumber = "262"
+            landmarkName = "getChatRequest(requestParams:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55A7911A-2BF0-4C91-AAC5-B61A30BC7451"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/MessagesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "getChatRequest(requestParams:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4A52119-20EE-45B6-AFDC-85195BD6103D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/IndividualChatDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "458"
+            endingLineNumber = "458"
+            landmarkName = "getChatDetailRequest(isReload:count:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9508E332-1AFF-411F-A015-5312DCF74B26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/IndividualChatDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "384"
+            endingLineNumber = "384"
+            landmarkName = "groupDetailAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "134C9733-D6C4-4AE5-B819-E003B379CF57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/GroupDetailController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "getGroupDetailServiceRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D7EEB4F-E87A-403C-9ABD-F1E952A972E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/GroupDetailController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "getGroupDetailServiceRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF22371E-6CA9-4ED5-9F6D-479D07736B66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/Helper/Requests/LoggedInRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "434"
+            endingLineNumber = "434"
+            landmarkName = "groupDetail(groupId:params:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E6587BB-7388-47BC-B341-78037677A29F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/GroupDetailController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "getGroupDetailServiceRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "234D127D-BBD6-4675-861A-7AA62B1C3C24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/GroupDetailController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDE75AB6-4FD8-4478-9D24-83CAF3BBC618"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/IndividualChatDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "357"
+            endingLineNumber = "357"
+            landmarkName = "sendMessage(image:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94B696B4-70C1-493C-A978-0BBA2AD3C1F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/IndividualChatDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "427"
+            endingLineNumber = "427"
+            landmarkName = "getChatDetailRequest(isReload:count:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D419EEC0-EA15-49E4-AEDB-2109B6308782"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/Helper/Utility/SocketHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "395"
+            endingLineNumber = "395"
+            landmarkName = "setupConnection()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D419EEC0-EA15-49E4-AEDB-2109B6308782 - 448bf2de969da39a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.Socketton.setupConnection() -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/Helper/Utility/SocketHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "396"
+                  endingLineNumber = "396"
+                  offsetFromSymbolStart = "5560">
+               </Location>
+               <Location
+                  uuid = "D419EEC0-EA15-49E4-AEDB-2109B6308782 - fa1bca72afd5b360"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #14 (Swift.Array&lt;Any&gt;, SocketIO.SocketAckEmitter) -&gt; () in PhoneadoDev.Socketton.setupConnection() -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/Helper/Utility/SocketHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "395"
+                  endingLineNumber = "395"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C20EC471-9471-431B-B355-5C9D392D6593"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/IndividualChatDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "viewWillDisappear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11F57C0C-66B9-4C64-B152-7112B9AF6A5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/IndividualChatDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "isGroupMessageReceived()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48B4FE5D-D028-4AD7-98A0-E787353E6EC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "userNotificationCenter(_:willPresent:withCompletionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48B4FE5D-D028-4AD7-98A0-E787353E6EC0 - df88965a9850329e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "255"
+                  endingLineNumber = "255"
+                  offsetFromSymbolStart = "2184">
+               </Location>
+               <Location
+                  uuid = "48B4FE5D-D028-4AD7-98A0-E787353E6EC0 - df88965a9850329e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "255"
+                  endingLineNumber = "255"
+                  offsetFromSymbolStart = "2152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9637C533-AF2C-40F9-ACBF-3BE179095168"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "userNotificationCenter(_:didReceive:withCompletionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "562ACFD0-70BC-4409-AD29-626CFC9840E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/Chat/MessagesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DE61871-5610-4661-9045-1C739DE2D08D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "userNotificationCenter(_:didReceive:withCompletionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5DE61871-5610-4661-9045-1C739DE2D08D - 4b32daa7b219b5dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse, withCompletionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "6560">
+               </Location>
+               <Location
+                  uuid = "5DE61871-5610-4661-9045-1C739DE2D08D - 4b32daa7b219b5fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse, withCompletionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "6560">
+               </Location>
+               <Location
+                  uuid = "5DE61871-5610-4661-9045-1C739DE2D08D - 73ab33edba5ce46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, didReceive: __C.UNNotificationResponse, withCompletionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "6560">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90F45EC4-0B71-4E4D-8DD0-68B3BC388002"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "userNotificationCenter(_:willPresent:withCompletionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90F45EC4-0B71-4E4D-8DD0-68B3BC388002 - df88965a985030b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "270"
+                  endingLineNumber = "270"
+                  offsetFromSymbolStart = "5248">
+               </Location>
+               <Location
+                  uuid = "90F45EC4-0B71-4E4D-8DD0-68B3BC388002 - df88965a9850308e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "5248">
+               </Location>
+               <Location
+                  uuid = "90F45EC4-0B71-4E4D-8DD0-68B3BC388002 - 63abba9ffeb3733e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.AppDelegate.userNotificationCenter(_: __C.UNUserNotificationCenter, willPresent: __C.UNNotification, withCompletionHandler: (__C.UNNotificationPresentationOptions) -&gt; ()) -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "5248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFC28499-BF4A-4803-A62E-D3452D026636"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "523"
+            endingLineNumber = "523"
+            landmarkName = "playSound()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B33F3C7-8184-4216-B9E3-5095F9C61FEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/MapViewVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "action()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "642D9DAA-0254-4EC4-9B66-0E5839C5C0D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/MapViewVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "action()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D0CC2E8-67C1-485C-9292-AF115B3C2AA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/MapViewVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "getUserProfile()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51C9EA64-91C9-41DE-82AB-4CEBFE07D82F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "383"
+            endingLineNumber = "383"
+            landmarkName = "getPhoneCOntact()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B4E4FC0-F0A6-4D81-AC84-ACE109E6CEA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1207"
+            endingLineNumber = "1207"
+            landmarkName = "getContactsRequest(requestParams:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EB61AF5-A87F-4098-9CBD-FC829AE69D81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
+            landmarkName = "getPhoneCOntact()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0EB61AF5-A87F-4098-9CBD-FC829AE69D81 - df4f37b70123c7e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Array&lt;__C.CNContact&gt;) -&gt; () in Phoneado.HomeVC.getPhoneCOntact() -&gt; ()"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "1772">
+               </Location>
+               <Location
+                  uuid = "0EB61AF5-A87F-4098-9CBD-FC829AE69D81 - 874d1b47f6930b91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Array&lt;__C.CNContact&gt;) -&gt; () in PhoneadoDev.HomeVC.getPhoneCOntact() -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "373"
+                  endingLineNumber = "373"
+                  offsetFromSymbolStart = "1776">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6164304E-FCEA-4211-BC71-A042905A8B2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1017"
+            endingLineNumber = "1017"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8A54472-148E-4CED-B000-63265A5CEE7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1200"
+            endingLineNumber = "1200"
+            landmarkName = "getContactsRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8A54472-148E-4CED-B000-63265A5CEE7D - d996dc84fb810e8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1199"
+                  endingLineNumber = "1199"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "B8A54472-148E-4CED-B000-63265A5CEE7D - e471cc13bf97123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1200"
+                  endingLineNumber = "1200"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "B8A54472-148E-4CED-B000-63265A5CEE7D - e471cc13bf97123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1200"
+                  endingLineNumber = "1200"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "B8A54472-148E-4CED-B000-63265A5CEE7D - e471cc13bf97123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1200"
+                  endingLineNumber = "1200"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "B8A54472-148E-4CED-B000-63265A5CEE7D - d996dc84fb810eaa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1200"
+                  endingLineNumber = "1200"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "B8A54472-148E-4CED-B000-63265A5CEE7D - e471cc13bf971c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1201"
+                  endingLineNumber = "1201"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CC9894E-776F-4901-86DC-0065E35E4048"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "789"
+            endingLineNumber = "789"
+            landmarkName = "syncBtnTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47179E59-FB70-447F-BD73-4C49148A5AFF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1182"
+            endingLineNumber = "1182"
+            landmarkName = "uploadContactsRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "47179E59-FB70-447F-BD73-4C49148A5AFF - 941ba983b1125d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.uploadContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1181"
+                  endingLineNumber = "1181"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "47179E59-FB70-447F-BD73-4C49148A5AFF - ff163a2da10a9140"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.uploadContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1182"
+                  endingLineNumber = "1182"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "47179E59-FB70-447F-BD73-4C49148A5AFF - 941ba983b1125c93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.uploadContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1182"
+                  endingLineNumber = "1182"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "47179E59-FB70-447F-BD73-4C49148A5AFF - ff163a2da10a9167"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.uploadContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1183"
+                  endingLineNumber = "1183"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "303037EA-E91A-43DE-B021-C3890C1DB3C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1260"
+            endingLineNumber = "1260"
+            landmarkName = "getContactsWithFavourites(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "303037EA-E91A-43DE-B021-C3890C1DB3C2 - e067a5e2ba9ea3cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1265"
+                  endingLineNumber = "1265"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "303037EA-E91A-43DE-B021-C3890C1DB3C2 - 9de97bb0e0a3acd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1265"
+                  endingLineNumber = "1265"
+                  offsetFromSymbolStart = "1228">
+               </Location>
+               <Location
+                  uuid = "303037EA-E91A-43DE-B021-C3890C1DB3C2 - 9de97bb0e0a3ac3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1260"
+                  endingLineNumber = "1260"
+                  offsetFromSymbolStart = "1620">
+               </Location>
+               <Location
+                  uuid = "303037EA-E91A-43DE-B021-C3890C1DB3C2 - 9de97bb0e0a3ac3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1260"
+                  endingLineNumber = "1260"
+                  offsetFromSymbolStart = "1640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC4315F1-0649-409F-AAE9-D5F1CB63D79D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1297"
+            endingLineNumber = "1297"
+            landmarkName = "getFavouritesRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC4315F1-0649-409F-AAE9-D5F1CB63D79D - 4c4f46f6f791536c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1299"
+                  endingLineNumber = "1299"
+                  offsetFromSymbolStart = "1868">
+               </Location>
+               <Location
+                  uuid = "BC4315F1-0649-409F-AAE9-D5F1CB63D79D - 4c4f46f6f79154e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1295"
+                  endingLineNumber = "1295"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+               <Location
+                  uuid = "BC4315F1-0649-409F-AAE9-D5F1CB63D79D - 4c4f46f6f79155bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1290"
+                  endingLineNumber = "1290"
+                  offsetFromSymbolStart = "2184">
+               </Location>
+               <Location
+                  uuid = "BC4315F1-0649-409F-AAE9-D5F1CB63D79D - 4c4f46f6f79154a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1297"
+                  endingLineNumber = "1297"
+                  offsetFromSymbolStart = "2184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93C7C6C7-363A-4804-BD10-D53B34B33A38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1021"
+            endingLineNumber = "1021"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93C7C6C7-363A-4804-BD10-D53B34B33A38 - 608aa51ad56d655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1019"
+                  endingLineNumber = "1019"
+                  offsetFromSymbolStart = "10892">
+               </Location>
+               <Location
+                  uuid = "93C7C6C7-363A-4804-BD10-D53B34B33A38 - 63015be91e78fb1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Phoneado.HomeVC.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Phoneado"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1019"
+                  endingLineNumber = "1019"
+                  offsetFromSymbolStart = "10784">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D1BCA5F-872D-428A-AF13-1144AB0B8C74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1142"
+            endingLineNumber = "1142"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D1BCA5F-872D-428A-AF13-1144AB0B8C74 - 675d70b6383fc59c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1141"
+                  endingLineNumber = "1141"
+                  offsetFromSymbolStart = "5572">
+               </Location>
+               <Location
+                  uuid = "6D1BCA5F-872D-428A-AF13-1144AB0B8C74 - 675d70b6383fc59c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1141"
+                  endingLineNumber = "1141"
+                  offsetFromSymbolStart = "5512">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D477C795-1F61-4175-AB73-6B39D54D401C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1251"
+            endingLineNumber = "1251"
+            landmarkName = "getContactsWithFavourites(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D477C795-1F61-4175-AB73-6B39D54D401C - 9de97bb0e0a3ad83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1256"
+                  endingLineNumber = "1256"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+               <Location
+                  uuid = "D477C795-1F61-4175-AB73-6B39D54D401C - fc35eb26e3f62212"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1256"
+                  endingLineNumber = "1256"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "D477C795-1F61-4175-AB73-6B39D54D401C - 9de97bb0e0a3ada0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1257"
+                  endingLineNumber = "1257"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "D477C795-1F61-4175-AB73-6B39D54D401C - fc35eb26e3f62177"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1251"
+                  endingLineNumber = "1251"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "D477C795-1F61-4175-AB73-6B39D54D401C - 9de97bb0e0a3ad07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1252"
+                  endingLineNumber = "1252"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "D477C795-1F61-4175-AB73-6B39D54D401C - 9de97bb0e0a3ad07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1252"
+                  endingLineNumber = "1252"
+                  offsetFromSymbolStart = "440">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5057B413-B07E-4D9B-9139-C0B801BC9A3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1286"
+            endingLineNumber = "1286"
+            landmarkName = "getFavouritesRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5057B413-B07E-4D9B-9139-C0B801BC9A3C - 4c4f46f6f791551e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1285"
+                  endingLineNumber = "1285"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+               <Location
+                  uuid = "5057B413-B07E-4D9B-9139-C0B801BC9A3C - a3ae0cf1f5823b4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1284"
+                  endingLineNumber = "1284"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "5057B413-B07E-4D9B-9139-C0B801BC9A3C - 4c4f46f6f791551e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1285"
+                  endingLineNumber = "1285"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "5057B413-B07E-4D9B-9139-C0B801BC9A3C - a3ae0cf1f58238e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1279"
+                  endingLineNumber = "1279"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "5057B413-B07E-4D9B-9139-C0B801BC9A3C - 4c4f46f6f79156f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1280"
+                  endingLineNumber = "1280"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "5057B413-B07E-4D9B-9139-C0B801BC9A3C - a3ae0cf1f5823b09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1286"
+                  endingLineNumber = "1286"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "5057B413-B07E-4D9B-9139-C0B801BC9A3C - 4c4f46f6f79155d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1287"
+                  endingLineNumber = "1287"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34CEDC76-E48A-4742-AD8C-79C5C7B78072"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1277"
+            endingLineNumber = "1277"
+            landmarkName = "getContactsWithFavourites(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34CEDC76-E48A-4742-AD8C-79C5C7B78072 - e4dbeced54fcbec4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1275"
+                  endingLineNumber = "1275"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "34CEDC76-E48A-4742-AD8C-79C5C7B78072 - a3ae0cf1f5823843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1276"
+                  endingLineNumber = "1276"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "34CEDC76-E48A-4742-AD8C-79C5C7B78072 - 9de97bb0e0a3b20e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1275"
+                  endingLineNumber = "1275"
+                  offsetFromSymbolStart = "5796">
+               </Location>
+               <Location
+                  uuid = "34CEDC76-E48A-4742-AD8C-79C5C7B78072 - 9de97bb0e0a3b375"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1270"
+                  endingLineNumber = "1270"
+                  offsetFromSymbolStart = "6220">
+               </Location>
+               <Location
+                  uuid = "34CEDC76-E48A-4742-AD8C-79C5C7B78072 - 9de97bb0e0a3b24c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsWithFavourites(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1277"
+                  endingLineNumber = "1277"
+                  offsetFromSymbolStart = "7332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0143639-ADB2-4FFC-B0AD-2F17F8C6737D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1222"
+            endingLineNumber = "1222"
+            landmarkName = "getContactsRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0143639-ADB2-4FFC-B0AD-2F17F8C6737D - e471cc13bf97c5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1221"
+                  endingLineNumber = "1221"
+                  offsetFromSymbolStart = "11176">
+               </Location>
+               <Location
+                  uuid = "E0143639-ADB2-4FFC-B0AD-2F17F8C6737D - e471cc13bf97c5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1221"
+                  endingLineNumber = "1221"
+                  offsetFromSymbolStart = "12300">
+               </Location>
+               <Location
+                  uuid = "E0143639-ADB2-4FFC-B0AD-2F17F8C6737D - e471cc13bf97c5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1221"
+                  endingLineNumber = "1221"
+                  offsetFromSymbolStart = "12304">
+               </Location>
+               <Location
+                  uuid = "E0143639-ADB2-4FFC-B0AD-2F17F8C6737D - e471cc13bf97c7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1222"
+                  endingLineNumber = "1222"
+                  offsetFromSymbolStart = "11572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A265419-D377-434D-B3DA-0AB6569BC5D8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1214"
+            endingLineNumber = "1214"
+            landmarkName = "getContactsRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5A265419-D377-434D-B3DA-0AB6569BC5D8 - e471cc13bf97f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1213"
+                  endingLineNumber = "1213"
+                  offsetFromSymbolStart = "1964">
+               </Location>
+               <Location
+                  uuid = "5A265419-D377-434D-B3DA-0AB6569BC5D8 - e471cc13bf97f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1213"
+                  endingLineNumber = "1213"
+                  offsetFromSymbolStart = "2000">
+               </Location>
+               <Location
+                  uuid = "5A265419-D377-434D-B3DA-0AB6569BC5D8 - e471cc13bf97f75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getContactsRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1214"
+                  endingLineNumber = "1214"
+                  offsetFromSymbolStart = "2352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB245D9D-25C8-4352-9DE4-19F1BEA21B5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1309"
+            endingLineNumber = "1309"
+            landmarkName = "getFavouritesRequest(requestParams:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB245D9D-25C8-4352-9DE4-19F1BEA21B5C - 4c4f46f6f7915274"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1307"
+                  endingLineNumber = "1307"
+                  offsetFromSymbolStart = "6752">
+               </Location>
+               <Location
+                  uuid = "DB245D9D-25C8-4352-9DE4-19F1BEA21B5C - 4c4f46f6f79153cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1302"
+                  endingLineNumber = "1302"
+                  offsetFromSymbolStart = "8720">
+               </Location>
+               <Location
+                  uuid = "DB245D9D-25C8-4352-9DE4-19F1BEA21B5C - 4c4f46f6f7915236"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, Swift.Optional&lt;PhoneadoDev.NetworkError&gt;) -&gt; () in PhoneadoDev.HomeVC.getFavouritesRequest(requestParams: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "PhoneadoDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zimble/Documents/phoneado_ios_client/Phoneado/LoggedIn/Controllers/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1309"
+                  endingLineNumber = "1309"
+                  offsetFromSymbolStart = "8720">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E6DCD22-4E48-46D4-8479-803EAA602C41"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1275"
+            endingLineNumber = "1275"
+            landmarkName = "getContactsWithFavourites(requestParams:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "409C8EF8-C11B-4677-BED7-0520B56286ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Phoneado/LoggedIn/Controllers/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1291"
+            endingLineNumber = "1291"
+            landmarkName = "getFavouritesRequest(requestParams:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

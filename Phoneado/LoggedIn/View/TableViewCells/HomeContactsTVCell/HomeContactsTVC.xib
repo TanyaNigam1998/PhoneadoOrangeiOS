@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Lato-Regular.ttf">
+            <string>Lato-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="68" id="KGk-i7-Jjw" customClass="HomeContactsTVC" customModule="Phoneado" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="68"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="68"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gEN-7L-Non">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="68"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="user" translatesAutoresizingMaskIntoConstraints="NO" id="ZNa-ii-XtK">
+                                <rect key="frame" x="10" y="16.5" width="35" height="35"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="35" id="Dca-VA-Fai"/>
+                                    <constraint firstAttribute="width" secondItem="ZNa-ii-XtK" secondAttribute="height" multiplier="1:1" id="c83-zi-rss"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Alan Baisa" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bK1-V5-GwU">
+                                <rect key="frame" x="55" y="24.5" width="230" height="19.5"/>
+                                <fontDescription key="fontDescription" name="Lato-Regular" family="Lato" pointSize="16"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="0.90000000000000002" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="viL-Y7-6wd">
+                                <rect key="frame" x="285" y="21.5" width="25" height="25"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="addToFavContactIcon" translatesAutoresizingMaskIntoConstraints="NO" id="2C1-7g-WCZ">
+                                        <rect key="frame" x="0.0" y="0.0" width="25" height="25"/>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2pn-9T-LnN" customClass="cellInfoBtn" customModule="Phoneado" customModuleProvider="target">
+                                        <rect key="frame" x="-10" y="-10" width="45" height="45"/>
+                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="2C1-7g-WCZ" firstAttribute="leading" secondItem="viL-Y7-6wd" secondAttribute="leading" id="CWp-bh-VHx"/>
+                                    <constraint firstAttribute="trailing" secondItem="2C1-7g-WCZ" secondAttribute="trailing" id="It2-Zj-uYe"/>
+                                    <constraint firstAttribute="trailing" secondItem="2pn-9T-LnN" secondAttribute="trailing" constant="-10" id="L7d-rz-zOh"/>
+                                    <constraint firstAttribute="bottom" secondItem="2pn-9T-LnN" secondAttribute="bottom" constant="-10" id="NSE-JY-Cc3"/>
+                                    <constraint firstAttribute="width" secondItem="viL-Y7-6wd" secondAttribute="height" multiplier="1:1" id="Pr9-yb-mQ0"/>
+                                    <constraint firstItem="2pn-9T-LnN" firstAttribute="leading" secondItem="viL-Y7-6wd" secondAttribute="leading" constant="-10" id="Uxz-Jm-jGk"/>
+                                    <constraint firstAttribute="height" constant="25" id="Yco-ah-eNq"/>
+                                    <constraint firstAttribute="bottom" secondItem="2C1-7g-WCZ" secondAttribute="bottom" id="caz-LF-WxF"/>
+                                    <constraint firstAttribute="width" secondItem="viL-Y7-6wd" secondAttribute="height" multiplier="1:1" id="nXP-kb-Kfn"/>
+                                    <constraint firstItem="2C1-7g-WCZ" firstAttribute="top" secondItem="viL-Y7-6wd" secondAttribute="top" id="njh-vm-S11"/>
+                                    <constraint firstItem="2pn-9T-LnN" firstAttribute="top" secondItem="viL-Y7-6wd" secondAttribute="top" constant="-10" id="toZ-gf-dcG"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="ZNa-ii-XtK" firstAttribute="leading" secondItem="gEN-7L-Non" secondAttribute="leading" constant="10" id="5mM-z6-TaM"/>
+                            <constraint firstItem="bK1-V5-GwU" firstAttribute="centerY" secondItem="ZNa-ii-XtK" secondAttribute="centerY" id="COp-17-17e"/>
+                            <constraint firstItem="viL-Y7-6wd" firstAttribute="leading" secondItem="bK1-V5-GwU" secondAttribute="trailing" id="CR2-i3-pZy"/>
+                            <constraint firstItem="viL-Y7-6wd" firstAttribute="centerY" secondItem="gEN-7L-Non" secondAttribute="centerY" id="DCL-dN-NaP"/>
+                            <constraint firstAttribute="trailing" secondItem="viL-Y7-6wd" secondAttribute="trailing" constant="10" id="J7s-VP-Yfi"/>
+                            <constraint firstItem="bK1-V5-GwU" firstAttribute="leading" secondItem="ZNa-ii-XtK" secondAttribute="trailing" constant="10" id="mub-EJ-DWd"/>
+                            <constraint firstItem="ZNa-ii-XtK" firstAttribute="centerY" secondItem="gEN-7L-Non" secondAttribute="centerY" id="o2F-Q9-mdr"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="gEN-7L-Non" secondAttribute="trailing" id="7AP-AB-hAG"/>
+                    <constraint firstItem="gEN-7L-Non" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="Fac-LS-i7A"/>
+                    <constraint firstAttribute="bottom" secondItem="gEN-7L-Non" secondAttribute="bottom" id="Ijy-1Y-VjN"/>
+                    <constraint firstItem="gEN-7L-Non" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="MxN-8U-Oi5"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="addToFavouriteContactBtn" destination="2pn-9T-LnN" id="lR3-af-zjm"/>
+                <outlet property="bottomView" destination="gEN-7L-Non" id="F1k-D1-ath"/>
+                <outlet property="contactImg" destination="ZNa-ii-XtK" id="DXH-w9-o3Z"/>
+                <outlet property="contactName" destination="bK1-V5-GwU" id="5BB-Sl-JK0"/>
+                <outlet property="contactSelectImg" destination="2C1-7g-WCZ" id="hDj-Hm-xVQ"/>
+                <outlet property="favoriteImageView" destination="viL-Y7-6wd" id="tCE-4D-a5U"/>
+            </connections>
+            <point key="canvasLocation" x="137.68115942028987" y="106.47321428571428"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="addToFavContactIcon" width="20" height="18"/>
+        <image name="user" width="40" height="40"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

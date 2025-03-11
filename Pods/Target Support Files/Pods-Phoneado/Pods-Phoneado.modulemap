@@ -1,0 +1,6 @@
+framework module Pods_Phoneado {
+  umbrella header "Pods-Phoneado-umbrella.h"
+
+  export *
+  module * { export * }
+}
