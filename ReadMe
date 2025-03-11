@@ -1,0 +1,60 @@
+##Project Overview##
+
+This is an iOS project developed using Xcode 15. The project is configured with the following settings:
+
+Swift Version: 5.0+
+
+Deployment Target: iOS 13.0+
+
+Package Manager: CocoaPods & Swift Package Manager (SPM)
+
+The project follows best practices for modern iOS development, ensuring compatibility with the latest tools and frameworks.
+
+##Prerequisites##
+
+To work on this project, ensure you have the following installed on your system:
+
+Xcode: Version 15 or higher.
+macOS: The latest stable version is recommended.
+CocoaPods: If the project uses dependencies managed by CocoaPods.
+sudo gem install cocoapods
+Swift Package Manager (SPM): Used for dependency management within Xcode.
+iOS Simulator / Physical Device: Ensure you have an iOS device or a simulator set up for testing.
+
+##Project Setup##
+
+Follow these steps to set up the project:
+Clone the Repository:
+
+In terminal, run these commands-
+git clone <repository_url>
+cd <project_directory> 
+
+##Install Dependencies:
+
+If the project uses CocoaPods, run:
+pod install
+
+Open the .xcworkspace file instead of .xcodeproj when using CocoaPods.
+
+Open the Project in Xcode:
+
+Launch Xcode 15.
+
+Open the .xcworkspace or .xcodeproj file.
+
+Configure Build Settings:
+
+Ensure the correct Team ID is set in Signing & Capabilities.
+
+Verify the deployment target is correct under Project Settings.
+
+Build the Project:
+
+Click on Product > Build or press Cmd+B.
+
+Run the Project:
+
+Connect a physical device or select a simulator.
+
+Click on Product > Run or press Cmd+R.
